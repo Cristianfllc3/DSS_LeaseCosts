@@ -3,9 +3,9 @@
 Data analysis of Auto Dealerships Lease Opportunities for 2021-2025.  
 *The partial presentation of the study has the validation and approval of the client LeaseCosts Inc.*  
 
-Objetive: Create a dashboard proposal based on the observations, measures, metrics and KPIs. Based on 48 variables over a period of 15 years.  
+Objective: Create a dashboard proposal based on the observations, measures, metrics and KPIs. Based on 48 variables over 15 years.  
 Method: CRIPS-DM (Cross-Industry Standard Process for Data Mining).    
-Tools: Interview / BPM light, Data dictionare/concept, Google Drive, Excel, Postgres, GCP, Data Science Studio Dataku, Odoo and Github. *On DEV (BigQuery - Tableau - Celonis)*       
+Tools: Interview / BPM light, Data dictionary/concept, Google Drive, Excel, Postgres, GCP, Data Science Studio Dataiku, Odoo and Github. *On DEV (BigQuery - Tableau - Celonis)*       
        
 # Overview of the result:  
 **Dashboard:**
@@ -29,7 +29,7 @@ Reference: https://www.datascience-pm.com/crisp-dm-2/
     
 # Data understanding  
 **Input:** Functional requirements of the client, sources of information (GoogleDrive, Excel).  
-**Output:** Data engineering/architecture phase, connection of data sources and creation of the work environment with Dataiku.   
+**Output:** Data engineering/architecture phase, the connection of data sources and creation of the work environment with Dataiku.   
 (Configuration of Dataiku, plugins and APIs of Google Cloud Platform)  
 
 Documentation:  
@@ -45,7 +45,7 @@ Documentation:
      
 # Data preparation  
 **Input:** Data engineering/architecture phase, connection of data sources and creation of the work environment with Dataiku.    
-**Output:** Flow base on Dataiku with a first dataset on BD(postgres) prepared for analisys.  
+**Output:** Flow base on Dataiku with the first dataset on BD(postgres) prepared for analysis.  
 (Dataiku, plugins Anonymization and Postgres)  
 
 The Dataiku visual flow allows coders and non-coders alike to easily build data pipelines with datasets, recipes to join and transform datasets, and the ability to build predictive models. Dataiku includes over 90 built-in data transformers for common data manipulations like binning, concatenation, currency conversions, date conversions, filtering, splitting, and more.  
@@ -60,7 +60,7 @@ The main steps taken for data processing were:
 ![image](https://user-images.githubusercontent.com/72107370/113628594-197c3100-9633-11eb-8b45-049b1b2d6689.png)  
   
   
-The visual flow also has code and reusable plugin elements for customization and advanced functions (eg anonymation).  
+The visual flow also has code and reusable plugin elements for customization and advanced functions (eg anonymization).  
 - https://www.dataiku.com/product/plugins/anonymizer/  
 
 **Example of anonymation over the field city**  
@@ -77,8 +77,8 @@ Dataiku provides built-in geospatial transformation functions when working with 
     
     
 # Modeling
-**Input:** Flow base on Dataiku with a first dataset on BD(postgres) prepared for analisys.    
-**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis and a Dashboards. *(Integrations with Tableau) It is not part of the scope of the project but some actions were taken.*
+**Input:** Flow base on Dataiku with the first dataset on BD(postgres) prepared for analysis.    
+**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis and Dashboards. *(Integrations with Tableau) It is not part of the scope of the project but some actions were taken.*
 (Dataiku, plugins for export to Tableau)  
 
 **1 - Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics**
@@ -99,7 +99,7 @@ Overviews are always associated with the customer's interest, but in most they a
 **2 - Statistical Analysis and a Dashboards**  
 The traditional techniques applied are:  
 - **Univariate Analysis**
-- **Repression**  
+- **Regression**  
 - **Logistic Regression**  
 - **Clusterization**   
 

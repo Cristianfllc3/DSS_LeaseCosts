@@ -42,7 +42,14 @@ Documentation:
 ![image](https://user-images.githubusercontent.com/72107370/113625561-10896080-962f-11eb-8000-98640ffc4fc8.png)   
      
 # Data preparation  
-The Dataiku visual flow allows coders and non-coders alike to easily build data pipelines with datasets, recipes to join and transform datasets, and the ability to build predictive models. Dataiku includes over 90 built-in data transformers for common data manipulations like binning, concatenation, currency conversions, date conversions, filtering, splitting, and more.
+The Dataiku visual flow allows coders and non-coders alike to easily build data pipelines with datasets, recipes to join and transform datasets, and the ability to build predictive models. Dataiku includes over 90 built-in data transformers for common data manipulations like binning, concatenation, currency conversions, date conversions, filtering, splitting, and more.  
+  
+The main steps taken for data processing were:  
+- **Data labeling** (categorical and numerical data).  
+- **Data cleaning** (incontinences, empty and duplicated data).  
+- **Data transformation** (Date and geospatial information).  
+- 
+- DEV **(Data Anonymization, Balancing, and Shuffling)** It is not part of the scope of the project but some actions were taken.  
 
 The visual flow also has code and reusable plugin elements for customization and advanced functions.  
 - https://www.dataiku.com/product/plugins/anonymizer/  

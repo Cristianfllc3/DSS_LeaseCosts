@@ -1,9 +1,11 @@
 # Data Science Study Dataiku_LeaseCosts  
-
+  
 Data analysis of Auto Dealerships Lease Opportunities for 2021-2025.  
+*The partial presentation of the study has the validation and approval of the client LeaseCosts Inc.*  
+
 Objetive: Create a dashboard proposal based on the observations, measures, metrics and KPIs. Based on 48 variables over a period of 15 years.  
 Method: CRIPS-DM (Cross-Industry Standard Process for Data Mining).    
-Tools: Interview / BPM light, Data dictionare/concept, Google Drive, Excel, Postgres, GCP, Data Science Studio Dataku, Odoo and Github. On DEV (BigQuery - Tableau - Celonis)       
+Tools: Interview / BPM light, Data dictionare/concept, Google Drive, Excel, Postgres, GCP, Data Science Studio Dataku, Odoo and Github. *On DEV (BigQuery - Tableau - Celonis)*       
        
 # Overview of the result:  
 **Dashboard:**
@@ -76,7 +78,7 @@ Dataiku provides built-in geospatial transformation functions when working with 
     
 # Modeling
 **Input:** Flow base on Dataiku with a first dataset on BD(postgres) prepared for analisys.    
-**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis and a Dashboards. (Integrations with Tableau) It is not part of the scope of the project but some actions were taken.
+**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis and a Dashboards. *(Integrations with Tableau) It is not part of the scope of the project but some actions were taken.*
 (Dataiku, plugins for export to Tableau)  
 
 **1 - Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics**
@@ -108,8 +110,27 @@ The traditional techniques applied are:
 ![image](https://user-images.githubusercontent.com/72107370/113633741-75e34e80-963b-11eb-9eeb-0154d60e78e5.png)    
 
 **ML Analysis**  
-It is not part of the scope of the project but some actions were taken.  
+*(It is not part of the scope of the project but some actions were taken.)  
 ![image](https://user-images.githubusercontent.com/72107370/113633788-93181d00-963b-11eb-94da-808ba29147b6.png)
 
+
+**Integrations with Tableau**  
+*(It is not part of the scope of the project but some actions were taken. )
+
+In addition to the native visualization and dashboarding functionality that Dataiku provides out-of-the box, the platform also supports the use of existing BI tools.  
+Dataiku integrates with leading BI platforms like Tableau, Qlik, and PowerBI to ensure critical stakeholders and business users have the information they need to create value from AI projects developed in Dataiku.  
+
+**Documentation:**
+https://www.dataiku.com/product/plugins/tableau-hyper-export/  
+
+**Tableau Hyper Export**  
+![image](https://user-images.githubusercontent.com/72107370/113634445-c3ac8680-963c-11eb-8f6c-cd1295ef2948.png)  
+  
+# Evaluation and Deploy
+
+https://www.linkedin.com/in/cristianflc3/   
+![image](https://user-images.githubusercontent.com/72107370/113634952-b3e17200-963d-11eb-933f-fbd39edf6cfe.png)    
+
+**End**  
 
 

@@ -72,5 +72,23 @@ Dataiku provides built-in geospatial transformation functions when working with 
     
 # Modeling
 **Input:** Flow base on Dataiku with a first dataset on BD(postgres) prepared for analisys.    
-**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis, Dashboards and Integrations with Tableau.  
+**Output:** Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics, Statistical Analysis and a Dashboards. (Integrations with Tableau) It is not part of the scope of the project but some actions were taken.
 (Dataiku, plugins for export to Tableau)  
+
+**1 - Exploratory Data Analysis, Charts and Graphs, Geospatial Analytics**
+Overviews are always associated with the customer's interest, but in most they are classified as (Relationship, Composition, Comparision and Distribution):
+
+- **RELATIONSHIP**: Comparison charts are used to compare the magnitude of values to each other and can be used to easily find "the lowest" and "highest values" in the data. It can also be used to compare current values versus old to see if the values are increasing or decreasing. Common questions are “what products sells best” and “how are our sales compared to last year”.    
+  
+- **COMPOSITION**: Composition charts are used to see how a part compares to the whole and how a total value can be divided into shares. A composition charts shows "the relative value", but some charts can also be used to show "the absolute difference". The difference is between looking at percentage of total and value of total. Commons questions are “how big part of the market to we have in a region”** or “what areas is our budget divided into”.   
+  
+- **COMPARISON**: Comparison charts are used to compare the magnitude of values to each other and can be used to easily find "the lowest" and "highest values" in the data. It can also be used to compare current values versus old to see if the values are increasing or decreasing. Common questions are “what products sells best” and “how are our sales compared to last year”.   
+  
+- **DISTRIBUTION**: Distribution charts are used to see how quantitative values are distributed along an axis from lowest to highest. Looking at the shape of the data a user can identify characteristics such as "the range of values", "central tendency", "shape and outliers". It can be used to answer questions such as
+“number of customers per age group” or “how many days late are our payments”.  
+
+**2 - Statistical Analysis and a Dashboards**  
+The traditional techniques applied are:  
+- **Repression** (multi-variable)  
+- **Logistic Regression**  
+- **Clusterization**    

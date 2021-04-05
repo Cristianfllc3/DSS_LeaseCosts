@@ -60,6 +60,10 @@ The main steps taken for data processing were:
   
 The visual flow also has code and reusable plugin elements for customization and advanced functions (eg anonymation).  
 - https://www.dataiku.com/product/plugins/anonymizer/  
+
+**Example of anonymation over the field city**  
+![image](https://user-images.githubusercontent.com/72107370/113633246-965ed900-963a-11eb-8883-b0e81613d272.png)  
+
   
 Dataiku provides built-in geospatial transformation functions when working with geospatial data.  
 - https://doc.dataiku.com/dss/latest/preparation/geographic.html  
@@ -87,8 +91,24 @@ Overviews are always associated with the customer's interest, but in most they a
 - **DISTRIBUTION**: Distribution charts are used to see how quantitative values are distributed along an axis from lowest to highest. Looking at the shape of the data a user can identify characteristics such as "the range of values", "central tendency", "shape and outliers". It can be used to answer questions such as
 “number of customers per age group” or “how many days late are our payments”.  
 
+**Data Analysis:**  
+![image](https://user-images.githubusercontent.com/72107370/113620921-f51b5700-9628-11eb-8d90-51256ad596d6.png)  
+  
 **2 - Statistical Analysis and a Dashboards**  
 The traditional techniques applied are:  
-- **Repression** (multi-variable)  
+- **Univariate Analysis**
+- **Repression**  
 - **Logistic Regression**  
-- **Clusterization**    
+- **Clusterization**   
+
+**Statistical Analysis:**  
+![image](https://user-images.githubusercontent.com/72107370/113633651-52200880-963b-11eb-98e2-c1c2dd9eb937.png)  
+
+![image](https://user-images.githubusercontent.com/72107370/113633741-75e34e80-963b-11eb-9eeb-0154d60e78e5.png)  
+
+**ML Analysis**  
+It is not part of the scope of the project but some actions were taken.  
+![image](https://user-images.githubusercontent.com/72107370/113633788-93181d00-963b-11eb-94da-808ba29147b6.png)
+
+
+

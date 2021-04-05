@@ -25,7 +25,7 @@ Tools: Interview / BPM light, Data dictionare/concept, Google Drive, Excel, Post
 Reference: https://www.datascience-pm.com/crisp-dm-2/ 
   
     
-# Data understanding
+# Data understanding  
 **Input:** Functional requirements of the client, sources of information (GoogleDrive, Excel).  
 **Output:** Data engineering/architecture phase, connection of data sources and creation of the work environment with Dataiku.   
 (Configuration of Dataiku, plugins and APIs of Google Cloud Platform)  
@@ -38,5 +38,16 @@ Documentation:
 - https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/keys/create  
 - https://drive.google.com/drive/folders/1ld89u6kbTpWj0Z_2Jjio5mWLb_j81Q2o?usp=sharing  
 
+**View of Google Drive conector in Dataiku:**  
+![image](https://user-images.githubusercontent.com/72107370/113625561-10896080-962f-11eb-8000-98640ffc4fc8.png)   
+     
+# Data preparation  
+The Dataiku visual flow allows coders and non-coders alike to easily build data pipelines with datasets, recipes to join and transform datasets, and the ability to build predictive models. Dataiku includes over 90 built-in data transformers for common data manipulations like binning, concatenation, currency conversions, date conversions, filtering, splitting, and more.
 
+The visual flow also has code and reusable plugin elements for customization and advanced functions.  
+- https://www.dataiku.com/product/plugins/anonymizer/  
+  
+Dataiku provides built-in geospatial transformation functions when working with geospatial data.  
+- https://doc.dataiku.com/dss/latest/preparation/geographic.html  
+- https://www.dataiku.com/product/plugins/geocoder/  
 

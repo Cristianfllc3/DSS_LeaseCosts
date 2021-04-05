@@ -104,7 +104,8 @@ The traditional techniques applied are:
 **Statistical Analysis:**  
 ![image](https://user-images.githubusercontent.com/72107370/113633651-52200880-963b-11eb-98e2-c1c2dd9eb937.png)  
 
-![image](https://user-images.githubusercontent.com/72107370/113633741-75e34e80-963b-11eb-9eeb-0154d60e78e5.png)  
+**Correlation Matrix**   
+![image](https://user-images.githubusercontent.com/72107370/113633741-75e34e80-963b-11eb-9eeb-0154d60e78e5.png)    
 
 **ML Analysis**  
 It is not part of the scope of the project but some actions were taken.  

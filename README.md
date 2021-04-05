@@ -27,8 +27,16 @@ Reference: https://www.datascience-pm.com/crisp-dm-2/
     
 # Data understanding
 **Input:** Functional requirements of the client, sources of information (GoogleDrive, Excel).  
-**Output:** Data engineering phase, connection of data sources and creation of the work environment with Dataiku.  
-Reference:  
+**Output:** Data engineering/architecture phase, connection of data sources and creation of the work environment with Dataiku.   
+(Configuration of Dataiku, plugins and APIs of Google Cloud Platform)  
+
+Documentation:  
+- https://www.dataiku.com/product/get-started/linux/   
+- https://launchpad-dku.app.dataiku.io/   
 - https://www.dataiku.com/product/plugins/googledrive/  
 - https://www.dataiku.com/product/plugins/googlesheets/  
-- https://launchpad-dku.app.dataiku.io/  
+- https://cloud.google.com/sdk/gcloud/reference/iam/service-accounts/keys/create  
+- https://drive.google.com/drive/folders/1ld89u6kbTpWj0Z_2Jjio5mWLb_j81Q2o?usp=sharing  
+
+
+

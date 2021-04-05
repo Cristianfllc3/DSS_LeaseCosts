@@ -48,10 +48,12 @@ The main steps taken for data processing were:
 - **Data labeling** (categorical and numerical data).  
 - **Data cleaning** (incontinences, empty and duplicated data).  
 - **Data transformation** (Date and geospatial information).  
-- 
 - DEV **(Data Anonymization, Balancing, and Shuffling)** It is not part of the scope of the project but some actions were taken.  
 
-The visual flow also has code and reusable plugin elements for customization and advanced functions.  
+![image](https://user-images.githubusercontent.com/72107370/113628594-197c3100-9633-11eb-8b45-049b1b2d6689.png)  
+  
+  
+The visual flow also has code and reusable plugin elements for customization and advanced functions (eg anonymation).  
 - https://www.dataiku.com/product/plugins/anonymizer/  
   
 Dataiku provides built-in geospatial transformation functions when working with geospatial data.  

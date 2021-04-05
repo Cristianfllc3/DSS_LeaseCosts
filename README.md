@@ -110,12 +110,12 @@ The traditional techniques applied are:
 ![image](https://user-images.githubusercontent.com/72107370/113633741-75e34e80-963b-11eb-9eeb-0154d60e78e5.png)    
 
 **ML Analysis**  
-*(It is not part of the scope of the project but some actions were taken.)  
+*(It is not part of the scope of the project but some actions were taken.)*  
 ![image](https://user-images.githubusercontent.com/72107370/113633788-93181d00-963b-11eb-94da-808ba29147b6.png)
 
 
 **Integrations with Tableau**  
-*(It is not part of the scope of the project but some actions were taken. )
+*(It is not part of the scope of the project but some actions were taken. )*
 
 In addition to the native visualization and dashboarding functionality that Dataiku provides out-of-the box, the platform also supports the use of existing BI tools.  
 Dataiku integrates with leading BI platforms like Tableau, Qlik, and PowerBI to ensure critical stakeholders and business users have the information they need to create value from AI projects developed in Dataiku.  
@@ -127,6 +127,7 @@ https://www.dataiku.com/product/plugins/tableau-hyper-export/
 ![image](https://user-images.githubusercontent.com/72107370/113634445-c3ac8680-963c-11eb-8f6c-cd1295ef2948.png)  
   
 # Evaluation and Deploy
+*The partial presentation of the study has the validation and approval of the client LeaseCosts Inc.*  
 
 https://www.linkedin.com/in/cristianflc3/   
 ![image](https://user-images.githubusercontent.com/72107370/113634952-b3e17200-963d-11eb-933f-fbd39edf6cfe.png)    
